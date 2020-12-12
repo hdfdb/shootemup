@@ -1,1 +1,1 @@
-# shootemup
+# algojeu

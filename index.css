@@ -1,0 +1,19 @@
+body {
+    background-color: #333;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+#info {
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    width: 800px;
+}
+
+#game {
+    text-align: center;
+}
